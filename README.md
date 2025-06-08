@@ -16,5 +16,4 @@ Vintage computer internals, or "computer archeology". The first personal compute
 
 * [HP-41 calculator](hp41.md)
 
-
-<br><sub>Last edited: 2025-01-15 14:41:53</sub>
+<br><sub>Last edited: 2025-06-07 21:45:43</sub>
